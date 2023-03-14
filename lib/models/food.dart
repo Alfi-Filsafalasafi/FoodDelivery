@@ -38,7 +38,7 @@ class Food {
             'Scallion': 'assets/images/ingre4.png',
           }
         ],
-        'Simply put, ramen is a Japanese noodle sup, with caramel delicious perfecto ',
+        'Simply put, ramen is a Japanese noodle sup, with caramel delicious perfecto, mencoba mengarungi indahnya hidup ini dan melanjutkan kehidupan yang lebih baik. Jika kamu gagal hari ini, jangan menyerah, besok akan lebih indah ',
         highLight: true,
       ),
       Food(
@@ -64,7 +64,7 @@ class Food {
             'Scallion': 'assets/images/ingre4.png',
           }
         ],
-        'Simply put, ramen is a Japanese noodle sup, with caramel delicious perfecto ',
+        'Simply put, ramen is a Japanese noodle sup, with caramel delicious perfecto, mencoba mengarungi indahnya hidup ini dan melanjutkan kehidupan yang lebih baik. Jika kamu gagal hari ini, jangan menyerah, besok akan lebih indah ',
       ),
       Food(
         'assets/images/dish3.png',
@@ -89,7 +89,7 @@ class Food {
             'Scallion': 'assets/images/ingre4.png',
           }
         ],
-        'Simply put, ramen is a Japanese noodle sup, with caramel delicious perfecto',
+        'Simply put, ramen is a Japanese noodle sup, with caramel delicious perfecto, mencoba mengarungi indahnya hidup ini dan melanjutkan kehidupan yang lebih baik. Jika kamu gagal hari ini, jangan menyerah, besok akan lebih indah',
       ),
     ];
   }
@@ -119,7 +119,7 @@ class Food {
             'Scallion': 'assets/images/ingre4.png',
           }
         ],
-        'Simply put, ramen is a Japanese noodle sup, with caramel delicious perfecto',
+        'Simply put, ramen is a Japanese noodle sup, with caramel delicious perfecto, mencoba mengarungi indahnya hidup ini dan melanjutkan kehidupan yang lebih baik. Jika kamu gagal hari ini, jangan menyerah, besok akan lebih indah',
       ),
       Food(
         'assets/images/dish1.png',
@@ -144,7 +144,7 @@ class Food {
             'Scallion': 'assets/images/ingre4.png',
           }
         ],
-        'Simply put, ramen is a Japanese noodle sup, with caramel delicious perfecto ',
+        'Simply put, ramen is a Japanese noodle sup, with caramel delicious perfecto, mencoba mengarungi indahnya hidup ini dan melanjutkan kehidupan yang lebih baik. Jika kamu gagal hari ini, jangan menyerah, besok akan lebih indah',
         highLight: true,
       ),
     ];
